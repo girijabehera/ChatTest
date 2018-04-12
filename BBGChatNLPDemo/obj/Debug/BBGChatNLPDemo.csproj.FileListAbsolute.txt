@@ -1,0 +1,10 @@
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\bin\Debug\BBGChatNLPDemo.exe.config
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\bin\Debug\BBGChatNLPDemo.exe
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\bin\Debug\BBGChatNLPDemo.pdb
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\obj\Debug\BBGChatNLPDemo.csprojResolveAssemblyReference.cache
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\obj\Debug\BBGChatNLPDemo.Form1.resources
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\obj\Debug\BBGChatNLPDemo.Properties.Resources.resources
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\obj\Debug\BBGChatNLPDemo.csproj.GenerateResource.Cache
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\obj\Debug\BBGChatNLPDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\obj\Debug\BBGChatNLPDemo.exe
+C:\Users\Sarah\source\repos\BBGChatNLPDemo\BBGChatNLPDemo\obj\Debug\BBGChatNLPDemo.pdb
